@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "t2i-kamui-imagen4-fast": {
+      "httpUrl": "https://kamui-code.ai/t2i/fal/imagen4/fast"
+    },
+    "i2v-kamui-hailuo-02-pro": {
+      "httpUrl": "https://kamui-code.ai/i2v/fal/minimax/hailuo-02/pro"
+    }
+  }
+}
